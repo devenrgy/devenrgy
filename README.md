@@ -19,6 +19,6 @@
 ### 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=devenrgy&icon=5&color=12)](https://visitcount.itsvg.in)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=devenrgy&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devenrgy&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=devenrgy&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devenrgy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
