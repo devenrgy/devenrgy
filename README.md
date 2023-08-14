@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **html, css, js, react**
 
-- 📫 How to reach me **adabiralexander@gmail.com**
-
 - 📄 Know about my experiences [soon](soon)
 
 - ⚡ Fun fact **A JavaScript function walked into a bar. The bartender said, "Sorry, we don't serve your type here." So, the function replied, "Well, you're not my type either!"**
