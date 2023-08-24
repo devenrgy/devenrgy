@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">⛩️</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
 - 🌱 I’m currently learning **react**
