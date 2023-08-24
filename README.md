@@ -1,9 +1,9 @@
 <h1 align="center">⛩️</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-- 🌱 I’m currently learning **react**
+- 🎯 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 🥷🏼 All of my projects are available at [soon](soon)
 
 - 💬 Ask me about **html, css, js, react**
 
