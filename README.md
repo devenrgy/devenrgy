@@ -3,7 +3,7 @@
 
 - 🎯 I’m currently learning **react**
 
-- 🥷🏼 All of my projects are available at [soon](soon)
+- 🐱‍👤 All of my projects are available at [soon](soon)
 
 - 💬 Ask me about **html, css, js, react**
 
