@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://i.imgur.com/rkY4UDi.gif"/>
+<img align="right" height="350" src="https://i.imgur.com/rkY4UDi.gif"/>
 
 ```diff
 @@ Alex 'devenrgy' @@
