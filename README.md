@@ -8,7 +8,7 @@
 > javascript | typescript
 > html
 > css3 | scss
-> react
+> react | next
 
 ! learn more frameworks
 ! learn more languages
